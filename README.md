@@ -1,6 +1,3 @@
-# HR-Assistant
-I've developed an AI-powered HR assistant that allows HR staff to upload files and receive answers to their questions.
-
 # HR Document Q&A System
 
 An advanced interactive Q&A system for HR documents using CrewAI, ChromaDB, and Google Gemini AI.
@@ -198,4 +195,3 @@ For issues or questions, please check:
 - Built with [CrewAI](https://www.crewai.com/)
 - Powered by [Google Gemini](https://ai.google.dev/)
 - Vector storage by [ChromaDB](https://www.trychroma.com/)
-
